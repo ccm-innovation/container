@@ -56,7 +56,7 @@
  * Full docs available at http://goatslacker.github.io/alt/
  */
 import React from 'react'
-import { assign } from '../utils/functions'
+import { assign } from './utils/functions'
 
 const id = it => it
 const getStateFromStore = (store, props) => {
